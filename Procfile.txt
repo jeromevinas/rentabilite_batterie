@@ -1,0 +1,1 @@
+web: gunicorn rentabilite_batterie_final_version:app
